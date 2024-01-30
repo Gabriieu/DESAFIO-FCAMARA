@@ -13,5 +13,8 @@ Maven
 <br/>
 MySQL
 
+## Banco de dados
+Crie um banco chamado 'estacionamento' e preencha as informações de usuário em `src\main\resources\application.properties`
+<br/>
 ## Documentação
 `http://localhost:8080/swagger-ui/index.html`
